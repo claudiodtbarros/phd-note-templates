@@ -59,3 +59,7 @@ Campo vazio ou lista vazia vale quando o campo não se aplica à nota. Um progra
 ## Revisão periódica
 
 A combinação de `last_verified` e `half_life` indica quando uma nota vence: a nota precisa de revisão quando a data da última conferência mais o prazo de revisão já passou. A rotina semanal do Manual (seção 2.4) lista essas notas, por uma consulta do plugin Dataview no Obsidian ou por uma busca no cabeçalho em qualquer editor, e confronta cada uma com a fonte na versão corrente.
+
+## Licença
+
+Os modelos são distribuídos sob a licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0), cujo texto integral está em [`LICENSE`](LICENSE). Você pode copiar, adaptar e redistribuir os modelos, inclusive para fins comerciais, desde que atribua a autoria a Claudio D. T. Barros e indique as alterações feitas.
